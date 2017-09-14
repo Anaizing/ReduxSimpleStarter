@@ -8,6 +8,8 @@ class SearchBar extends Component {
     this.state = { term: 'starting value' }
   }
 
+
+
   render() {
     return (
       <div>
